@@ -1,2 +1,3 @@
-# meditation-app
-Meditation app tutorial
+# Energify
+
+ A basic web app to do yoga anywhere anytime.
