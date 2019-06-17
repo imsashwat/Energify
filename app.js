@@ -38,6 +38,9 @@ timeSelect.forEach(option => {
   });
 });
 
+
+//play, pause controller
+
 const checkPlaying = song => {
   if (song.paused) {
     song.play();
