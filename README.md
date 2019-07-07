@@ -1,6 +1,7 @@
 # Energify
 **beta version**
-A web-app built to enable users to do yoga anytime anywhere with customizable timers
+A web-app built to enable users to do yoga anytime anywhere with customizable timers.
+
 
 ## How to run
 
